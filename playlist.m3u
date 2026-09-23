@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="one" tvg-name="Alkass 1" tvg-logo="https://www.alkass.net/images/new-1.png" group-title="Alkass",Alkass 1
+https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1790008592~hmac=1438cb95f76560edcc7a11a7434a58735e124679106cbb81984f0b71eec8a3d0
+#EXTINF:-1 tvg-id="two" tvg-name="Alkass 2" tvg-logo="https://www.alkass.net/images/new-2.png" group-title="Alkass",Alkass 2
+https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1790008592~hmac=0e8ab14891d3bfc975485d682073c725d13dc800bac60a12dfcba56b56ab2eb4
+#EXTINF:-1 tvg-id="three" tvg-name="Alkass 3" tvg-logo="https://www.alkass.net/images/new-3.png" group-title="Alkass",Alkass 3
+https://liveeu-gcps.alkassdigital.net/alkass3-p/main.m3u8?hdnts=exp=1790008592~hmac=18e4362900f21cf0ab01efdc79f29a45e4538675f4651f5b7a8cc602a6748c2b
+#EXTINF:-1 tvg-id="four" tvg-name="Alkass 4" tvg-logo="https://www.alkass.net/images/new-4.png" group-title="Alkass",Alkass 4
+https://liveeu-gcps.alkassdigital.net/alkass4-p/main.m3u8?hdnts=exp=1790008592~hmac=046cc6ed7691cbc15077ee7a006c54450f759a08a5cdf18fa69af29012f043b6
+#EXTINF:-1 tvg-id="shoof1" tvg-name="shoof1" tvg-logo="https://www.alkass.net/images/shoof1.png" group-title="Alkass",shoof1
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/master.m3u8?hdnts=exp=1790008592~hmac=865cbb60042df6d346b915c13e2a490c52ae6f3b78bf21546d83c756fd214026
