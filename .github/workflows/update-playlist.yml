@@ -1,0 +1,34 @@
+name: Update Alkass playlists
+
+on:
+  schedule:
+    # روابط المصدر تنتهي تقريبًا بعد 15 دقيقة؛ التحديث كل 5 دقائق
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch all Alkass playlists
+        run: python3 update_playlist.py
+
+      - name: Commit changed playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u '*.m3u8'
+
+          if git diff --cached --quiet; then
+            echo "Playlists are unchanged; no commit needed."
+          else
+            git commit -m "chore: refresh Alkass playlists"
+            git push
+          fi
