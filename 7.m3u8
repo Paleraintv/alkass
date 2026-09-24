@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="seven" tvg-name="Alkass 7" tvg-logo="https://www.alkass.net/images/new-7.png" group-title="Alkass",Alkass 7
+https://liveeu-gcps.alkassdigital.net/alkass7-p/main.m3u8?hdnts=exp=1790229357~hmac=ca27205a761dbfeab272f4b89eaae74bb96bbf35663a2b3bebfcc9713dd7e683
