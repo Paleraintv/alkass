@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="one" tvg-name="Alkass 1" tvg-logo="https://www.alkass.net/images/new-1.png" group-title="Alkass",Alkass 1
-https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1791650722~hmac=da35a4c40d908a0634d08bf251c0f75d6762a9662e9e30d5eeca32544cd60d79
+https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1791651866~hmac=1582efdb66d41b3c549fa714e67518c0302efe1f87721b16bc3d06566e35b8c4
 #EXTINF:-1 tvg-id="two" tvg-name="Alkass 2" tvg-logo="https://www.alkass.net/images/new-2.png" group-title="Alkass",Alkass 2
-https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1791650722~hmac=08bad8912bebff07e7c17416056c6a05d07d2ca333793d9efa0c1806590199e2
+https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1791651866~hmac=8d7dec397f1acd2df4b0a28b578462cc713efdb0109b4f0c292ba248c114c95d
 #EXTINF:-1 tvg-id="three" tvg-name="Alkass 3" tvg-logo="https://www.alkass.net/images/new-3.png" group-title="Alkass",Alkass 3
-https://liveeu-gcps.alkassdigital.net/alkass3-p/main.m3u8?hdnts=exp=1791650722~hmac=199c6e56f58441352593ce09066aa02cb4081c9c92e8e5ca554d27af81bd5302
+https://liveeu-gcps.alkassdigital.net/alkass3-p/main.m3u8?hdnts=exp=1791651866~hmac=238de8a9ab3fb453a86e6eb97a86d136cd0d3e6ba0b89b56ac9d98905d602205
 #EXTINF:-1 tvg-id="four" tvg-name="Alkass 4" tvg-logo="https://www.alkass.net/images/new-4.png" group-title="Alkass",Alkass 4
-https://liveeu-gcps.alkassdigital.net/alkass4-p/main.m3u8?hdnts=exp=1791650722~hmac=c8345b68b879be1fb5e2f4e15a927fd5415514ae7203254e4c024e54e1ee13cb
+https://liveeu-gcps.alkassdigital.net/alkass4-p/main.m3u8?hdnts=exp=1791651866~hmac=e424ad6d7eacfcb407fe749b95c35a3ea3d6aee1d953a912fe5fe4e0beb6263e
 #EXTINF:-1 tvg-id="shoof1" tvg-name="shoof1" tvg-logo="https://www.alkass.net/images/shoof1.png" group-title="Alkass",shoof1
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/master.m3u8?hdnts=exp=1791650722~hmac=5e478a9f07b5a695396c3943f4de9910b2f34176c01ad3b3a2b338464ab729fe
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/master.m3u8?hdnts=exp=1791651866~hmac=6a816ec756b32037757cf531fc62f1b1c69fdcd191b5a781c1096251fc005e54
