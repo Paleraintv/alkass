@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="eight" tvg-name="Alkass 8" tvg-logo="https://www.alkass.net/images/new-8.png" group-title="Alkass",Alkass 8
-https://liveeu-gcps.alkassdigital.net/alkass8-p/main.m3u8?hdnts=exp=1790229357~hmac=cf9a9efca2c74422b7126453310d4164d86d8001b5509178b98015979d5ed7db
+#EXTINF:-1 tvg-id="shoof2" tvg-name="shoof2" tvg-logo="https://www.alkass.net/images/shoof2.png" group-title="Alkass",shoof2
+https://liveakgrns.alkassdigital.net/hls/live/20003219/shoof2/master.m3u8?hdnts=exp=1794914792~hmac=ba76472d343f13948c47dc5590d83f436f25428333142d0f9077bfbe678ac1dd
