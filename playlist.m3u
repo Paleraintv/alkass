@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="one" tvg-name="Alkass 1" tvg-logo="https://www.alkass.net/images/new-1.png" group-title="Alkass",Alkass 1
-https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1795830236~hmac=c17ede1468dd4d59a2fdcd3f707c9258587687843f77662f628ea00338f53c40
+https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1795858660~hmac=a2e26f10450e714a0bb1545c551c707538cc12a87ff1275fea861afdb80fb591
 #EXTINF:-1 tvg-id="two" tvg-name="Alkass 2" tvg-logo="https://www.alkass.net/images/new-2.png" group-title="Alkass",Alkass 2
-https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1795830236~hmac=fa0f5bc3c20ab0f87fcc6ae1ccbba20bd8b19c162490298ae12a8678086d031a
+https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1795858660~hmac=ecf8d7ed633a9969c99ade60658aaea1cb09aa9dd6a81f527b0ca879c7e7e85d
 #EXTINF:-1 tvg-id="three" tvg-name="Alkass 3" tvg-logo="https://www.alkass.net/images/new-3.png" group-title="Alkass",Alkass 3
-https://liveeu-gcps.alkassdigital.net/alkass3-p/main.m3u8?hdnts=exp=1795830236~hmac=155e3f28dff1e659159582c6d4db8d4d9f3e9fe34121e1f5eaf593a7b1ee3878
+https://liveeu-gcps.alkassdigital.net/alkass3-p/main.m3u8?hdnts=exp=1795858660~hmac=03d1fb63091e5f8fcf2094606224b46fea6b29257a84ad313204cebc35a6b16d
 #EXTINF:-1 tvg-id="four" tvg-name="Alkass 4" tvg-logo="https://www.alkass.net/images/new-4.png" group-title="Alkass",Alkass 4
-https://liveeu-gcps.alkassdigital.net/alkass4-p/main.m3u8?hdnts=exp=1795830236~hmac=e6c4996d71c16291f5fd1efe6b86d709cd74c1b35748943e1431943a1952bc17
+https://liveeu-gcps.alkassdigital.net/alkass4-p/main.m3u8?hdnts=exp=1795858660~hmac=477025136cc7644815c5aedd12b6dbcb9bafca6233d5bc035ccc8cee3f39b5af
 #EXTINF:-1 tvg-id="nine" tvg-name="nine" tvg-logo="https://www.alkass.net/images/new-9.png" group-title="Alkass",nine
-https://liveakgrns.alkassdigital.net/hls/live/20003219/alkass9/master.m3u8?hdnts=exp=1795830236~hmac=cb00a0f97b7a0d9fe34bf83aebb78fa083c7889e72b223aed833f40519fccf2f
+https://liveakgrns.alkassdigital.net/hls/live/20003219/alkass9/master.m3u8?hdnts=exp=1795858660~hmac=85fa40cf8a1bf777d107933404f9ba6a0c9115520ef413e4fa13702dea1c00be
 #EXTINF:-1 tvg-id="ten" tvg-name="ten" tvg-logo="https://www.alkass.net/images/new-10.png" group-title="Alkass",ten
-https://liveakgrns.alkassdigital.net/hls/live/20003219/alkass10/master.m3u8?hdnts=exp=1795830236~hmac=90e9bb426377793eb102d0a15aa1b252c9d1cf62c075897766370fb202aa27fd
+https://liveakgrns.alkassdigital.net/hls/live/20003219/alkass10/master.m3u8?hdnts=exp=1795858660~hmac=7ec9df369b567193b2dddf9e4eb8845bff95a6218e3d50c43ab445850c6b9e6b
 #EXTINF:-1 tvg-id="shoof1" tvg-name="shoof1" tvg-logo="https://www.alkass.net/images/shoof1.png" group-title="Alkass",shoof1
-https://liveakgrns.alkassdigital.net/hls/live/20003219/shooflivevssaua/master.m3u8?hdnts=exp=1795830236~hmac=23a967cc6659f04cfbdea7a41644972d81f48dd63e2f29dcf108708a590c8518
+https://liveakgrns.alkassdigital.net/hls/live/20003219/shooflivevssaua/master.m3u8?hdnts=exp=1795858660~hmac=8bddee27e244edcb5c1c7b46571e923f4f3201409403372f791fe4722a6e989b
 #EXTINF:-1 tvg-id="shoof2" tvg-name="shoof2" tvg-logo="https://www.alkass.net/images/shoof2.png" group-title="Alkass",shoof2
-https://liveakgrns.alkassdigital.net/hls/live/20003219/shoof2/master.m3u8?hdnts=exp=1795830236~hmac=075b16765bd06092e9caac2aed756053ecbf0114302bf85887c5dc424568d053
+https://liveakgrns.alkassdigital.net/hls/live/20003219/shoof2/master.m3u8?hdnts=exp=1795858660~hmac=f113952f8370d1a62409db2d398b155f5e22674744f5cbd9401676b104d7146f
 #EXTINF:-1 tvg-id="shoof3" tvg-name="shoof3" tvg-logo="https://www.alkass.net/images/shoof3.png" group-title="Alkass",shoof3
-https://liveakgrns.alkassdigital.net/hls/live/20003219/shoof3/master.m3u8?hdnts=exp=1795830236~hmac=29e635f7cca69c36fff458e3078d060bdc0ddb5330f856f700a8b1558f8eb377
+https://liveakgrns.alkassdigital.net/hls/live/20003219/shoof3/master.m3u8?hdnts=exp=1795858660~hmac=1683c990ac136353f4926cfefb86e39adabf388de6e225e271f361064c373494
